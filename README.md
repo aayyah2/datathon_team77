@@ -6,7 +6,19 @@ Please attach your youtube link down below:
 {link:"https://www.youtube.com/watch?v=dQw4w9WgXcQ"}
 
 Slides (Link to PDF): [link](https://www.example.com)
+
 Slides (PDF): In repository, titled "slides.pdf"
+
+
+**Problem Set (#1):**
+*Synchrony:*
+As virtual assistants become more widely used by consumers to simplify tasks and corporations to increase customer service efficiency, some individuals are getting left behind. Many voice assistants are designed to understand non-accented, dictionary language, which leaves out a significant portion of people. Leveraging publicly available data sets, deliver a model that can create equity in this technology for underserved populations.
+
+**Our Model + Approach:**
+- Mirror population composition with training data to improve model performance
+- Users should be able to select preferred model (“select dialect”) to improve voice assistant performance
+- Use N-gram + Noise Contrastive Estimation to understand long range context 
+- Allow User to set “context” in which the command takes place
 
 **Key Components:**
 - TIMIT corpus subset (Dataset: Race Column)
