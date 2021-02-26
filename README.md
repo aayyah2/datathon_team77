@@ -33,9 +33,9 @@ As virtual assistants become more widely used by consumers to simplify tasks and
 **Instructions to Build:**
 1. Clone repository
 2. Downloaded needed datasets (some are very large so we could not include them)
-3. Run neccesary pre-processing code to format datasets
-4. Run model building code
-5. Check out the results!
+3. Run neccesary pre-processing code to format datasets (data_generator.py)
+4. Run model building code (DeepSpeech_Training.ipynb)
+5. Check out the results! (Also in Datathon_Team77.pdf)
 
 **Sourced Cited:**
 - Koenecke, Allison, et al. “Racial Disparities in Automated Speech Recognition.” 
