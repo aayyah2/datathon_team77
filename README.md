@@ -7,7 +7,7 @@ Please attach your youtube link down below:
 
 Slides (Link to PDF): [link](https://drive.google.com/file/d/1Jt-BZMCok0iO3jMHH0ATmcvP8hNmoTAs/view?usp=sharing)
 
-Slides (PDF): In repository, titled "slides.pdf"
+Slides (PDF): In repository, titled "Datathon_Team77.pdf"
 
 
 **Problem Set (#1):**
