@@ -5,7 +5,7 @@ Team: Aparna Ayyah, Matt Ho, Bryan Ko
 Please attach your youtube link down below:
 {link:"https://youtu.be/c2tk3m--SE8"}
 
-Slides (Link to PDF): [link](https://www.example.com)
+Slides (Link to PDF): [link](https://drive.google.com/file/d/1Jt-BZMCok0iO3jMHH0ATmcvP8hNmoTAs/view?usp=sharing)
 
 Slides (PDF): In repository, titled "slides.pdf"
 
