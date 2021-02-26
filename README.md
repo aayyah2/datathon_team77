@@ -3,7 +3,7 @@
 Team: Aparna Ayyah, Matt Ho, Bryan Ko
 
 Please attach your youtube link down below:
-{link:"https://www.youtube.com/watch?v=dQw4w9WgXcQ"}
+{link:"https://youtu.be/c2tk3m--SE8"}
 
 Slides (Link to PDF): [link](https://www.example.com)
 
