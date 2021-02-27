@@ -10,7 +10,7 @@ Slides (Link to PDF): [link](https://drive.google.com/file/d/1Jt-BZMCok0iO3jMHH0
 Slides (PDF): In repository, titled "Datathon_Team77.pdf"
 
 
-###Problem Set (#1): Synchrony###
+**Problem Set (#1): Synchrony**
 
 As virtual assistants become more widely used by consumers to simplify tasks and corporations to increase customer service efficiency, some individuals are getting left behind. Many voice assistants are designed to understand non-accented, dictionary language, which leaves out a significant portion of people. Leveraging publicly available data sets, deliver a model that can create equity in this technology for underserved populations.
 
