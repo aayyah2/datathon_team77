@@ -1,6 +1,6 @@
 # Datathon21_T077
 
-Team: Aparna Ayyah, Matt Ho, Bryan Ko
+Team: Aparna Ayyah (Sophomore) & Matt Ho (Sophomore)
 
 Please attach your youtube link down below:
 {link:"https://youtu.be/c2tk3m--SE8"}
@@ -30,12 +30,19 @@ As virtual assistants become more widely used by consumers to simplify tasks and
 - Demographics of CommonVoice Dataset Analysis (TIMIT_Demographic.py)
 - DeepSpeech Model Code (DeepSpeech_Training.ipynb)
 
+**Links to Datasets**
+- Indic TTS: https://www.iitm.ac.in/donlab/tts/
+- CommonVoice: https://commonvoice.mozilla.org/en
+- TIMIT: https://catalog.ldc.upenn.edu/LDC93S1
+
 **Instructions to Build:**
 1. Clone repository
 2. Downloaded needed datasets (some are very large so we could not include them)
-3. Run neccesary pre-processing code to format datasets (data_generator.py)
-4. Run model building code (DeepSpeech_Training.ipynb)
-5. Check out the results! (Also in Datathon_Team77.pdf)
+3. Run TIMIT_Demographic.py on demographics_DARPA_TIMIT.csv for demgraphic information
+4. Run CommonVoice_Demographics.py for demographic information (as seen in presentation)
+5. Run neccesary pre-processing code to format datasets (data_generator.py)
+6. Run model building code (DeepSpeech_Training.ipynb + sample_models.py)
+7. Check out the results! (Also in Datathon_Team77.pdf)
 
 **Sourced Cited:**
 - Koenecke, Allison, et al. “Racial Disparities in Automated Speech Recognition.” 
@@ -43,9 +50,13 @@ As virtual assistants become more widely used by consumers to simplify tasks and
 - Masina, Fabio, et al. “Investigating the Accessibility of Voice Assistants With Impaired Users: Mixed Methods Study.” 
 - Anusha Prakash, Anju Leela Thomas, S. Umesh and Hema A. Murthy, "Building Multilingual End-to-End Speech Synthesisers for Indian Languages".
 - V, Anand P. “Indian Accent Speech Recognition.”
-- Raju,Anirudh. “How to Make Neural Language Models Practical for Speech Recognition.”
+- Raju, Anirudh. “How to Make Neural Language Models Practical for Speech Recognition.”
 - L. Lugosch, M. Ravanelli, P. Ignoto, V. Tomar, and Y. Bengio, "Speech Model Pre-training for End-to-End Spoken Language Understanding"
 
+**Indian Accent Model Base:**
+- V, Anand P. “Indian Accent Speech Recognition.”
 
+**N-Gram Improvements Base:**
+- Raju,Anirudh. “How to Make Neural Language Models Practical for Speech Recognition.”
 
 
