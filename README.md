@@ -1,6 +1,6 @@
 # Datathon21_T077
 
-Team: Aparna Ayyah (Sophomore) & Matt Ho (Sophomore)
+Team 77: Aparna Ayyah (Sophomore) & Matt Ho (Sophomore)
 
 Please attach your youtube link down below:
 {link:"https://youtu.be/c2tk3m--SE8"}
@@ -25,10 +25,12 @@ As virtual assistants become more widely used by consumers to simplify tasks and
 - TIMIT corpus subset (Dataset: Race Column)
 - Indic TTS (Dataset)
 - CommonVoice (Dataset)
-- Trained Model(RNN + TimeDistributed Layer)
+- Confidence Level of DeepSpeech (confidenceLevels.py)
+- Trained Model with RNN + TimeDistributed Layer (sample_models.py)
 - Demographics of TIMIT Dataset Analysis (TIMIT_Demographic.py)
 - Demographics of CommonVoice Dataset Analysis (TIMIT_Demographic.py)
 - DeepSpeech Model Code (DeepSpeech_Training.ipynb)
+- Sample Models using RNN (sample_models.py)
 
 **Links to Datasets**
 - Indic TTS: https://www.iitm.ac.in/donlab/tts/
@@ -37,12 +39,14 @@ As virtual assistants become more widely used by consumers to simplify tasks and
 
 **Instructions to Build:**
 1. Clone repository
-2. Downloaded needed datasets (some are very large so we could not include them)
-3. Run TIMIT_Demographic.py on demographics_DARPA_TIMIT.csv for demgraphic information
-4. Run CommonVoice_Demographics.py for demographic information (as seen in presentation)
-5. Run neccesary pre-processing code to format datasets (data_generator.py)
-6. Run model building code (DeepSpeech_Training.ipynb + sample_models.py)
-7. Check out the results! (Also in Datathon_Team77.pdf)
+2. Make sure DeepSpeech is installed **This is very important** (*Starter.ipynb*)
+3. Downloaded needed datasets (some are very large so we could not upload them) **This must be done before the rest of the code can be run**
+4. Run confidenceLevels.py on DeepSpeech to find confidence levels (*confidenceLevels.py*)
+5. Run TIMIT_Demographic.py on demographics_DARPA_TIMIT.csv for demgraphic information (*TIMIT_Demographic.py + demographics_DARPA_TIMIT.csv*)
+6. Run CommonVoice_Demographics.py for demographic information (*as seen in presentation*)
+7. Run neccesary pre-processing code to format datasets (*data_generator.py*)
+8. Run model building code (*DeepSpeech_Training.ipynb + sample_models.py*)
+9. Check out the results! (Also in *Datathon_Team77.pdf*)
 
 **Sourced Cited:**
 - Koenecke, Allison, et al. “Racial Disparities in Automated Speech Recognition.” 
